@@ -22,3 +22,12 @@ This lab is to edit a large csv file and perform
 6)Adding permissions to files
 
 Link - https://github.com/rishithasrikakulapu/Labs/blob/main/Lab3/Lab3_VenkataManiMohanaRishithaSrikakulapu.pdf
+
+All the .c files should be compiling and executing by commands:
+command for compiling c file : gcc filename
+command for executing c file :./a.out
+where filename is the name of the file with .c extension
+
+All the .sh files should be executing by the command:
+./filename
+where filename is the name of the file with .sh extension
